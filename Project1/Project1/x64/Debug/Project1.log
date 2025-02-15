@@ -1,3 +1,2 @@
-﻿  4.입력.c
-C:\Jheven\CProject\Project1\4.입력.c(42,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  6.연산자2.c
   Project1.vcxproj -> C:\Jheven\CProject\Project1\x64\Debug\Project1.exe
