@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20.서버 로그인 기능 연출.c">
+    <ClCompile Include="21 문자열 관련 기능.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
