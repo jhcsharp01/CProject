@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21 문자열 관련 기능.c">
+    <ClCompile Include="26. 구조체와 포인터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

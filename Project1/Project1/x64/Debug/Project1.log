@@ -1,6 +1,2 @@
-﻿  21 문자열 관련 기능.c
-C:\Jheven\CProject\Project1\21 문자열 관련 기능.c(26,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\Jheven\CProject\Project1\21 문자열 관련 기능.c(27,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\Jheven\CProject\Project1\21 문자열 관련 기능.c(31,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\Jheven\CProject\Project1\21 문자열 관련 기능.c(32,9): warning C4477: 'printf' : 서식 문자열 '%lu'에 'unsigned long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+﻿  26. 구조체와 포인터.c
   Project1.vcxproj -> C:\Jheven\CProject\Project1\x64\Debug\Project1.exe
